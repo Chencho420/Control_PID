@@ -20,8 +20,8 @@ main.c:1184:5:menu_monitoreo	7
 main.c:1228:6:monitoreo_digital	5
 main.c:1279:6:monitoreo_analogico	5
 main.c:1342:5:menu_offsets	20
-main.c:1525:5:Establecer_valor	14
-main.c:1670:5:Establecer_valor_prueba	14
+main.c:1525:5:Establecer_valor_prueba	14
+main.c:1670:5:Establecer_valor	14
 main.c:1811:5:Establecer_valor_bidireccional	20
 main.c:2108:5:menu_instalador	12
 main.c:2198:5:AI1_leer	2

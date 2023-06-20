@@ -318,7 +318,7 @@ int main(void)
         break;
       case KPI_ABIERTO:
       //kpi_abierto = Establecer_valor("KPI abierto", kpi_abierto, 1000);
-      Establecer_valor_prueba("KPI abierto", &kpi_abierto, 1000);
+      Establecer_valor("KPI abierto", &kpi_abierto, 1000);
         break;
       case PID_SALIDA_INV:
       cambiar_opcion("PID salida", &pid_salida_inv);

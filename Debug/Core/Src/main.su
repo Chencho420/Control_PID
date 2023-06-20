@@ -20,8 +20,8 @@
 ../Core/Src/main.c:1228:6:monitoreo_digital	24	static
 ../Core/Src/main.c:1279:6:monitoreo_analogico	88	static
 ../Core/Src/main.c:1342:5:menu_offsets	24	static
-../Core/Src/main.c:1525:5:Establecer_valor	88	static
-../Core/Src/main.c:1670:5:Establecer_valor_prueba	88	static
+../Core/Src/main.c:1525:5:Establecer_valor_prueba	88	static
+../Core/Src/main.c:1670:5:Establecer_valor	88	static
 ../Core/Src/main.c:1811:5:Establecer_valor_bidireccional	96	static
 ../Core/Src/main.c:2108:5:menu_instalador	24	static
 ../Core/Src/main.c:2198:5:AI1_leer	16	static
